@@ -5,6 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Happy New Year 2024!</Text>
+      <Text>Starting to learn </Text>
       <StatusBar style="auto" />
     </View>
   );
